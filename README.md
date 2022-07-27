@@ -12,9 +12,8 @@ ln -s ~/.gnome-shell-themes/themes ~/.themes
 ## Install extensions
 
 - Caffeine
-- Frippery Move Clock
 - Removable Drive Menu
 - User Themes
 - AppIndicator and KStatusNotifierItem Support
-- Remove App Menu
-
+- Big Sur Status Area 
+- Sound Input & Output Device Chooser
